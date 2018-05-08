@@ -3,7 +3,7 @@ AspNet.Identity.Mongo
 
 A mongodb provider for the new ASP.NET Identity framework. My aim is to ensure this project is well tested and configurable.
 
-## Usage
+## Usage:=
 
 	var client = new MongoClient("mongodb://localhost:27017");
 	var database = client.GetDatabase("mydb");
